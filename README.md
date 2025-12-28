@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://i.imgur.com/C8ZfDQx.png" width="128" height="128" alt="MacroBox Logo">
-</p>
+
 
 # MacroBox
+</p>
 > Transform any USB HID controller into a precision Windows automation powerhouse.
 
 MacroBox is a sophisticated, high-performance controller for Windows that bridges the gap between affordable DIY hardware and professional-grade automation. Built on .NET 8 with a modern WPF interface, it allows users to turn generic Zero Delay USB Encoders, gamepads, or custom PCBs into versatile 16-button productivity stations. By leveraging native Windows APIs and low-latency input handling, it ensures your workflows remain fluid and responsive.
