@@ -1,3 +1,6 @@
+<h1 align="center">COMING SOON!
+<p></p>
+
 <p align="center">
   <img src="https://i.imgur.com/C8ZfDQx.png" width="200" height="200" alt="MacroBox Logo">
 </p>
